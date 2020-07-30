@@ -14,7 +14,7 @@
 	*/
 
 	# Terceira forma
-	$nome2[2] = '<br><br>Maria';
+	$nome2[2] = 'Maria';
 	echo '<br>'.$nome2[2];
 	$nome2[10] = 'Antonio';
 	echo '<br>'.$nome2[10].'<br><br>';
