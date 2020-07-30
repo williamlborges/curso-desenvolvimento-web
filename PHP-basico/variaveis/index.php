@@ -22,7 +22,9 @@
 	$age = 40;
 	echo "<br><br>O nome dele é $name e sua idade é $age anos.";
 
-	/*OBS: Deve-se ter cuidado ao utilizar aspas duplas quando utiliza html junto com php, pois algumas tags do html utiliza aspas duplas, e, ao utilizar aspas duplas novamente dentro dessa tag, o programa vai entender que está fechando as apas.
+	/*OBS: Deve-se ter cuidado ao utilizar aspas duplas quando utiliza html junto com php, 
+	pois algumas tags do html utiliza aspas duplas, e, ao utilizar aspas duplas novamente 
+	dentro dessa tag, o programa vai entender que está fechando as apas.
 	*/
 
 	$nome_da_classe = 'box';
