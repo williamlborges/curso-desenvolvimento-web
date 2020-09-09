@@ -9,7 +9,7 @@
 	possui os índices 0 e 1, respectivamente.
 	*/
 	$arr = array(array('Nome', 'Idade'), array('Breno', 'Carlos'), array(25, 32));
-	echo $arr[][0];
+	echo $arr[1][0];
 
 	
 ?>
